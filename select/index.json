@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "夢の恋人",
+  "base_artist": "ズーカラデル",
+  "createdAt": "2026-02-25T10:06:17.932269Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "夢の恋人",
+      "artist": "ズーカラデル",
+      "has_synced": false,
+      "path": "select/pl_01_夢の恋人_ズーカラデル.txt"
+    }
+  ]
+}
